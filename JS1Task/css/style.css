@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.inputs {
+    text-align: center;
+
+}
+
+.inputs input {
+    width: 250px;
+    height: 30px;
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+
+.btn {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.btn button {
+    margin-left: 10px;
+    width: 120px;
+    height: 30px;
+    background-color: rgb(1, 29, 70);
+    color: aliceblue;
+    border-color: rgb(1, 29, 70);
+    border: 2px solid rgb(1, 29, 70);
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+h1 {
+    text-align: center;
+   
+}
+
+h2 {
+    text-align: center;
+    color: black;
+}
